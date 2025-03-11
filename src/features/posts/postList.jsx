@@ -29,7 +29,6 @@ const PostList = () => {
     <section>
       <h2>Posts</h2>
       {renderedPosts}
-      {/* 22:00 watch React Redux Example Project with Redux Toolkit by Dave Gray */}
     </section>
   );
 };
